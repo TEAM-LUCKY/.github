@@ -23,6 +23,6 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TEAM-LUCKY/&title=Profile%20Views)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=TEAM-LUCKY&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mrluckyxd&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrvk1703&theme=monokai)](https://github.com/mrluckyxd/mrluckyxd)
